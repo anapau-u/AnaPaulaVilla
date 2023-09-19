@@ -1,6 +1,6 @@
 .inicio{
 --opacidad-negro: 0.5;
-background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/ferrari.webp");
+background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/F1header.webp");
 background-position: center;
 background-size: cover;
 height:30rem;  
@@ -30,4 +30,8 @@ height:30rem;
     .card-title{
         font-size: 2.5rem;
     }
+}
+.navbar-logo{
+    width: 5rem; /* Set the desired width */
+    height: auto; /* Maintain the aspect ratio */
 }

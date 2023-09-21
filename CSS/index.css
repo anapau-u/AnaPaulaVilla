@@ -1,9 +1,9 @@
 .inicio{
 --opacidad-negro: 0.5;
-background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/F1header.webp");
+background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/f1background.webp");
 background-position: center;
 background-size: cover;
-height:30rem;  
+height:25rem;  
 }
 .ana{
     .card{
@@ -32,6 +32,6 @@ height:30rem;
     }
 }
 .navbar-logo{
-    width: 5rem; /* Set the desired width */
-    height: auto; /* Maintain the aspect ratio */
+    width: 5rem;
+    height: auto;
 }

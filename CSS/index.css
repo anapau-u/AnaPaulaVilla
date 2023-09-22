@@ -8,9 +8,14 @@ height:25rem;
 .ana{
     .card{
         border-radius: 10px;
+        width: 20.1rem;
     }
     .card-title{
         font-size: 1.5rem;
+    }
+    .card-img{
+        width: 20rem;
+        height: auto;
     }
 }
 .pedro{
@@ -19,16 +24,6 @@ height:25rem;
     }
     .card-title{
         font-style: italic;
-    }
-}
-.alex{
-    .card{
-        border-color:cornflowerblue;
-        border-style: double;
-        
-    }
-    .card-title{
-        font-size: 2.5rem;
     }
 }
 .navbar-logo{

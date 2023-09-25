@@ -15,7 +15,7 @@ height:25rem;
     }
     .card-img{
         width: 20rem;
-        height: auto;
+        height: 11rem;
     }
 }
 .pedro{
@@ -28,5 +28,9 @@ height:25rem;
 }
 .navbar-logo{
     width: 5rem;
-    height: auto;
+    height: 2.5rem;
 }
+/* .carrousel-img{
+    width: 60rem;
+    height: 49rem;
+} */

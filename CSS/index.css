@@ -11,7 +11,7 @@ height:25rem;
         width: 20.1rem;
     }
     .card-title{
-        font-size: 1.5rem;
+        font-size: 1.6rem;
     }
     .card-img{
         width: 20rem;
@@ -30,7 +30,32 @@ height:25rem;
     width: 5rem;
     height: 2.5rem;
 }
-/* .carrousel-img{
-    width: 60rem;
-    height: 49rem;
-} */
+.contacto{
+    .card{
+        width: 18rem;
+        background-color: rgba(243, 243, 243, 0.383);
+        border: hidden;
+        .bi{
+            font-size: 3rem;
+            color: rgb(0, 0, 0);
+        }
+        .card-title{
+        font-size: 1.4rem;
+        }  
+        .card-text{
+            font-size: 1rem;
+        }
+    } 
+    
+}
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 11px 9px 15px #d7d7d7;
+    /* border: 2px solid #f8bebe86; */
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    .bi, -card-title{
+        color: rgb(255, 35, 42);
+    }
+}
